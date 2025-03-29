@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-25 02:18:21</sys_created_on>
+        <sys_id>511ecc7483682210fcd6c170deaad3d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_68761_api_lookup_ip_details.x_68761_api_lookup.ip_details_user</sys_name>
+        <sys_package display_value="API_Lookup" source="x_68761_api_lookup">eed0248483202210fcd6c170deaad39c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="API_Lookup">eed0248483202210fcd6c170deaad39c</sys_scope>
+        <sys_security_acl display_value="x_68761_api_lookup_ip_details">d91ecc7483682210fcd6c170deaad3d0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_511ecc7483682210fcd6c170deaad3d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-25 02:18:21</sys_updated_on>
+        <sys_user_role display_value="x_68761_api_lookup.ip_details_user" name="x_68761_api_lookup.ip_details_user">091ecc7483682210fcd6c170deaad378</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_operation">
+    <sys_ws_operation action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_operation_uri/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <http_method>GET</http_method>
+        <name>vale _case</name>
+        <operation_script><![CDATA[(function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
+
+    // implement resource here
+
+})(request, response);]]></operation_script>
+        <operation_uri>/api/Sivale/test_peter_sivale/val_case/{number}</operation_uri>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <relative_path>/val_case/{number}</relative_path>
+        <request_example/>
+        <requires_acl_authorization>true</requires_acl_authorization>
+        <requires_authentication>true</requires_authentication>
+        <requires_snc_internal_role>true</requires_snc_internal_role>
+        <short_description/>
+        <sys_class_name>sys_ws_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-25 23:23:43</sys_created_on>
+        <sys_id>7d4fe04983e42210fcd6c170deaad3c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vale _case</sys_name>
+        <sys_package display_value="API_Lookup" source="x_68761_api_lookup">eed0248483202210fcd6c170deaad39c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="API_Lookup">eed0248483202210fcd6c170deaad39c</sys_scope>
+        <sys_update_name>sys_ws_operation_7d4fe04983e42210fcd6c170deaad3c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-25 23:23:43</sys_updated_on>
+        <web_service_definition display_value="test Peter Sivale">0c6e200983e42210fcd6c170deaad370</web_service_definition>
+        <web_service_version/>
+    </sys_ws_operation>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>7d4fe04983e42210fcd6c170deaad3c6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-25 23:23:43</sys_created_on>
+        <sys_id>cdbf244983e42210fcd6c170deaad302</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-25 23:23:43</sys_updated_on>
+        <table>sys_ws_operation</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

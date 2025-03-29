@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="07ed0c7483682210fcd6c170deaad32f" label="IP Details" max_length="40" name="x_68761_api_lookup_ip_details" type="collection">
+        <element label="Currency" max_length="100" name="currency" type="string"/>
+        <element label="Country" max_length="100" name="country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="https://www.webpagetest.org/addresses.php" label="Click para mostrar Ip Diponibles" max_length="1024" name="u_url_1" read_only="true" type="url"/>
+        <element label="Enter your IP" max_length="150" name="enter_your_ip" type="string"/>
+        <element label="Time Zone" max_length="100" name="time_zone" type="string"/>
+        <element label="city" max_length="100" name="city" type="string"/>
+    </element>
+</database>
